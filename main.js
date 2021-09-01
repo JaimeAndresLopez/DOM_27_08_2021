@@ -47,5 +47,5 @@ console.log(img);
 // console.log(imgSeleccionar.miID);
 //     Object.assign(imgSeleccionar.miID, imgAtributos);
 
-var imagen = document.querySelector(`[id='miID]`);
-console.log(imagen.alt);
+// var imagen = document.querySelector(`[id='miID]`);
+// console.log(imagen.alt);
